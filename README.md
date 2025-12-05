@@ -2,7 +2,8 @@
 
 # BIO-STREAMS Marketplace & Serious Games – Translation Automation Toolkit
 
-This repository contains the automated translation and localization pipeline used in the BIO-STREAMS Marketplace and Serious Games ecosystem.  
+This repository contains the automated translation and localization pipeline used in the BIO-STREAMS Marketplace and Serious Games ecosystem.
+
 BIO-STREAMS is a Horizon Europe research initiative focused on preventing and managing childhood and adolescent obesity through AI-powered, personalised, and family-centric digital interventions.
 
 > **Status:** Research / pilot deployment  
@@ -12,7 +13,8 @@ BIO-STREAMS is a Horizon Europe research initiative focused on preventing and ma
 
 ![BIO-STREAMS](./screenshots/serious-games-translations-collage.png)
 
-BIO-STREAMS includes a suite of serious games designed to support healthier lifestyle habits for children, teenagers, and their families within clinical pilots across Europe.  
+BIO-STREAMS includes a suite of serious games designed to support healthier lifestyle habits for children, teenagers, and their families within clinical pilots across Europe.
+
 These games were originally authored in English by clinical experts. Because the project involves dozens of partners across many countries, multilingual localization is essential.
 
 This toolkit provides a reliable, automated workflow to:
@@ -65,7 +67,6 @@ This workflow has become a core component of the BIO-STREAMS localization proces
 
 **BibTeX**
 ```bibtex
-
 @Article{electronics14102053,
     AUTHOR = {Vondikakis, Ioannis and Politi, Elena and Goulis, Dimitrios and Dimitrakopoulos, George and Georgoulis, Michael and Saltaouras, George and Kontogianni, Meropi and Brisimi, Theodora and Logothetis, Marios and Kakoulidis, Harry and Prasinos, Marios and Anastasiou, Athanasios and Kakkos, Ioannis and Vellidou, Eleftheria and Matsopoulos, George and Koutsouris, Dimitris},
     TITLE = {Integrated Framework for Managing Childhood Obesity Based on Biobanks, AI Tools and Methods, and Serious Games},
@@ -79,6 +80,8 @@ This workflow has become a core component of the BIO-STREAMS localization proces
     DOI = {10.3390/electronics14102053}
 }
 ```
+
+## Technical
 
 ### Installation
 

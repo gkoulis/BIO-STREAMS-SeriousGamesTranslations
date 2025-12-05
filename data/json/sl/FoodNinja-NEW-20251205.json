@@ -1,0 +1,75 @@
+{
+    "themes": [
+        {
+            "id": 1,
+            "title": "Sadje in zelenjava",
+            "description": "Poišči sadje in zelenjavo! Nareži jih, da si prislužiš točke in spoznaj njihovo hranilno vrednost in pisano paleto, koliko bi jih moral dnevno zaužiti, in pametne načine, kako jih dodati v svojo prehrano.",
+            "levels": [
+                {
+                    "id": 1,
+                    "title": "Tvoja naloga je narezati sadje!",
+                    "messages": [
+                        "Dajte sadju prednostno nalogo!",
+                        "Sadje je med živili, ki bi jih moral_a uživati ​​vsak dan. Na splošno so tvoj končni cilj 2-3 sadeži na dan. Če izbereš sadje kot prigrizek v šoli ali popoldan, ti bo to pomagalo doseči tvoj dnevni cilj. Če želiš to narediti, daj sadju prednost: najprej pojej sadje, nato karkoli drugega!"
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Tvoja naloga je narezati zelenjavo!",
+                    "messages": [
+                        "Pojdite s solato na svoje obroke!",
+                        "Zelenjava, tako kot sadje, naj bi se uživala ​​vsak dan. Postrežemo jo lahko kot solato ali celo kot glavno jed. Da bi dosegel_a svoj dnevni cilj, glavne obroke dopolni z zelenjavo!"
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Tvoja naloga je narezati sadje in zelenjavo rdeče barve!",
+                    "messages": [
+                        "Odkrijte paleto barv F&V!",
+                        "Sadje in zelenjava so najbolj barvita skupina hrane. Njihove barve pa niso samo užitek za vaše oči, ampak tudi za vaše telo. Za barvo obstajajo določene snovi, ki posebej koristijo sistemu vašega telesa. Z drugimi besedami, različne barve so dobre za različne sisteme telesa. Odkrijte jih!"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Mlečni izdelki (DP)",
+            "description": "Išči mlečne izdelke! Nareži jih, da si prislužiš točke in spoznaj njihova ključna hranila, koliko jih moraš dnevno zaužiti, njihovo velikost porcije in pametne načine, kako jih dodati v svojo prehrano.",
+            "levels": [
+                {
+                    "id": 1,
+                    "title": "Tvoja naloga je, da narežete mlečne izdelke!",
+                    "messages": [
+                        "Naj mlečni izdelki postanejo vsakodnevna navada! V dan jih vključi že zgodaj in ustvari zdrave navade, ki trajajo!",
+                        "Mlečni izdelki, kot so mleko, jogurt in sir, so živila, ki bi jih moral uživati ​​vsak dan, saj zagotavljajo ključna hranila za tvojo rast in razvoj."
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Tvoja naloga je, da narežeš priporočen dnevni vnos mlečnih izdelkov!",
+                    "messages": [
+                        "Vsak dan uživaj mlečne izdelke!",
+                        "Če želiš doseči cilj 3-4 porcij mlečnih izdelkov na dan, poskusi dodati kozarec mleka k zajtrku, jogurt kot prigrizek ali sir k kosilu ali večerji. Naj ti to postane navada – združi svoje obroke ali prigrizke z mlečnim izdelkom, da ostaneš močen_a in zdrav_a!"
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Tvoja naloga je, da narežeš tisto, kar šteje za eno porcijo mlečnega izdelka.",
+                    "messages": [
+                        "Kaj šteje za eno porcijo mleka?",
+                        "Tu je hiter vodnik: (1) 1 kozarec (240 ml) mleka, (2) 1 lonec (150 g) jogurta in (3) 1 rezina (ali 30 g) sira"
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Tvoja naloga je razrezati ključno hranilo, ki ga najdemo v mlečnih izdelkih! Upoštevaj naslednje: Ca: kalcij, Fe: železo, vE: vitamin E.",
+                    "messages": [
+                        "Mlečni izdelki so eden najboljših virov kalcija, ki pomaga graditi močne kosti in zobe.",
+                        "Mlečni izdelki so tudi pomembni viri kakovostnih beljakovin, pomembni za vašo rast, vitamine in minerale.",
+                        "Mlečni izdelki z nizko vsebnostjo maščob vam dajejo manj kalorij in maščob, vendar so tudi dobri viri kalcija in beljakovin. Izberite tudi jih!"
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "themes": [
+        {
+            "id": 1,
+            "title": "Groenten en fruit",
+            "description": "Zoek naar de groenten en fruit! Snijd ze in plakjes om punten te verdienen en leer meer over hun voedingswaarde en kleurrijke palet, hoeveel je er dagelijks zou moeten consumeren en slimme manieren om ze aan je dieet toe te voegen.",
+            "levels": [
+                {
+                    "id": 1,
+                    "title": "Jouw taak is om de vruchten in plakjes te snijden!",
+                    "messages": [
+                        "Geef fruit een prioriteit!",
+                        "Fruit behoort tot de voedingsmiddelen die u dagelijks moet consumeren. Over het algemeen is 2-3 stuks fruit per dag je uiteindelijke doel. Door fruit te kiezen als tussendoortje, op school of in de middag, kun je je dagelijkse doel bereiken. Geef fruit daarom prioriteit: eet eerst het fruit en dan iets anders!"
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Jouw taak is om de groenten in plakjes te snijden!",
+                    "messages": [
+                        "Neem een salade bij jouw maaltijden!",
+                        "Groenten moeten, net als fruit, dagelijks worden geconsumeerd. Ze kunnen worden geserveerd als salade of zelfs als hoofdgerecht. Om uw dagelijkse doel te bereiken, begeleidt u uw hoofdmaaltijden met groenten!"
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Jouw taak is om het fruit en de groenten met rode kleur te snijden!",
+                    "messages": [
+                        "Ontdek het groenten en fruit -palet van kleuren!",
+                        "Groenten en fruit zijn de meest kleurrijke voedselgroepen. Hun kleuren zijn echter niet alleen een plezier voor je ogen, maar ook voor je lichaam. Achter een kleur schuilen er bepaalde stoffen, die een specifiek systeem van je lichaam ten goede komen. Met andere woorden, de verschillende kleuren zijn goed voor verschillende systemen van het lichaam. Ontdek ze!"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Zuivel Producten (ZP)",
+            "description": "Zoek naar de zuivelproducten! Snijd ze in plakjes om punten te verdienen en leer meer over hun belangrijkste voedingsstoffen, hoeveel u er dagelijks moet consumeren, hun portiegrootte en slimme manieren om ze aan uw dieet toe te voegen.",
+            "levels": [
+                {
+                    "id": 1,
+                    "title": "Jouw taak is om de zuivelproducten in plakjes te snijden!",
+                    "messages": [
+                        "Maak van zuivelproducten een dagelijkse gewoonte! Voeg ze vroeg op de dag toe en bouw gezonde, blijvende gewoonten op!",
+                        "Zuivelproducten zoals melk, yoghurt en kaas zijn voedingsmiddelen die u dagelijks moet consumeren, omdat ze belangrijke voedingsstoffen leveren voor uw groei en ontwikkeling."
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Jouw taak is om de aanbevolen dagelijkse consumptie van zuivelproducten te verminderen!",
+                    "messages": [
+                        "Ga elke dag met zuivelproducten!",
+                        "Om het doel van 3-4 porties zuivelproducten per dag te bereiken, kun je proberen een glas melk bij het ontbijt, yoghurt als tussendoortje of kaas bij je lunch of diner op te nemen. Maak er een gewoonte van: combineer uw maaltijden of snacks met een zuivelproduct om sterk en gezond te blijven!"
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Het is jouw taak om in stukken te snijden wat telt als één portie van een zuivelproduct.",
+                    "messages": [
+                        "Wat telt als een portie zuivelproduct?",
+                        "Hier is een snelle tip: (1) 1 glas (240 ml) melk, (2) 1 pot (150 g) yoghurt en (3) 1 plak (of 30 g) kaas"
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Jouw taak is om de belangrijkste voedingsstof in zuivelproducten te snijden! Let op: Ca: calcium, Fe: ijzer, vE: vitamine E.",
+                    "messages": [
+                        "Zuivelproducten zijn een van de beste bronnen van calcium, wat helpt bij de opbouw van sterke botten en tanden.",
+                        "Zuivelproducten zijn ook belangrijke bronnen van hoogwaardig eiwitten, die belangrijk zijn voor jouw groei, vitamines en mineralen.",
+                        "Halfvolle of magere zuivelproducten geven je minder calorieën en vet, maar zijn ook goede bronnen van calcium en eiwitten. Kies deze ook!"
+                    ]
+                }
+            ]
+        }
+    ]
+}

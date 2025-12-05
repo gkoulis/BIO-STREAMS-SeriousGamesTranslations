@@ -1,0 +1,75 @@
+{
+    "themes": [
+        {
+            "id": 1,
+            "title": "Frutas e Vegetais",
+            "description": "Procura as frutas e legumes! Corta-os para ganhar pontos e aprender mais sobre o seu valor nutricional e cores, quantos deves consumir diariamente e formas inteligentes de os adicionar à tua dieta.",
+            "levels": [
+                {
+                    "id": 1,
+                    "title": "A tua tarefa é cortar as frutas!",
+                    "messages": [
+                        "Dá prioridade à fruta!",
+                        "As frutas estão entre os alimentos que deves consumir diariamente. Em geral, 2-3 frutas por dia é o teu objetivo final. Escolher uma fruta para o lanche, na escola ou à tarde, vai ajudar-te a atingir  o teu objetivo diário. Para isso, dá prioridade à fruta: primeiro come a fruta e depois as outras coisas!"
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "A tua tarefa é cortar os legumes!",
+                    "messages": [
+                        "Escolhe uma salada para as tuas refeições!",
+                        "Os vegetais, assim como as frutas, devem ser consumidos diariamente. Podem ser servidos como salada ou até como prato principal. Para cumprir o teu objetivo diário, acompanha as tuas refeições principais com vegetais!"
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "A tua tarefa é cortar as frutas e legumes com a cor vermelha!",
+                    "messages": [
+                        "Descobre a paleta de cores das F&V!",
+                        "As frutas e os legumes são os grupos alimentares mais coloridos. As suas cores não só alegram a vista, mas também fazem bem à saúde. Por trás de cada cor, existem substâncias específicas que beneficiam determinados sistemas do organismo. Por outras palavras, as diferentes cores são boas para diferentes partes do corpo. Descobre-as!"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Produtos lácteos (PL)",
+            "description": "Procura os laticínios! Corta-os para ganhar pontos e aprender mais sobre os seus principais nutrientes, quantos deves consumir diariamente, o tamanho da porção e formas inteligentes de os adicionar à tua dieta.",
+            "levels": [
+                {
+                    "id": 1,
+                    "title": "A tua tarefa é cortar os laticínios!",
+                    "messages": [
+                        "Faz dos laticínios um hábito diário! Inclui-os no início do dia e cria hábitos saudáveis ​​que duram!",
+                        "Produtos lácteos como leite, iogurte e queijo são alimentos que deves consumir diariamente porque fornecem nutrientes essenciais para o teu crescimento e desenvolvimento."
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "A tua tarefa é cortar o consumo diário recomendado de laticínios!",
+                    "messages": [
+                        "Escolhe laticínios todos os dias!",
+                        "Para atingir a meta de 3-4 porções de laticínios por dia, experimenta incluir um copo de leite no teu pequeno-almoço, iogurte ao lanche ou queijo ao almoço ou jantar. Cria o hábito - combina as tuas refeições ou lanches com uma opção de laticínios para te manteres forte e saudável!"
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "A tua tarefa é cortar o que conta como uma porção de um laticínio.",
+                    "messages": [
+                        "O que corresponde a uma porção de laticínios?",
+                        "Aqui está um guia rápido: (1) 1 copo (240 ml) de leite, (2) 1 pote (150 g) de iogurte e (3) 1 fatia (ou 30 g) de queijo"
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "A tua tarefa é cortar o principal nutriente encontrado nos laticínios! Observa que: Ca: cálcio, Fe: Ferro, vE: vitamina E.",
+                    "messages": [
+                        "Os laticínios são uma das melhores fontes de cálcio, que ajuda a construir ossos e dentes fortes.",
+                        "Os produtos lácteos também são fontes importantes de proteínas de alta qualidade, importantes para o teu crescimento, vitaminas e minerais.",
+                        "Os laticínios com pouca gordura têm menos calorias e gordura, mas são também boas fontes de cálcio e proteínas. Escolhe-os também!"
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "common": {
+        "Under Construction": "Under uppbyggnad",
+        "Something went wrong": "Något gick fel..."
+    },
+    "actions": {
+        "Start": "Starta",
+        "Go": "Gå",
+        "Return": "Tillbaka",
+        "Next": "Nästa"
+    },
+    "theme_level": {
+        "Themes": "Teman",
+        "Theme": "Tema",
+        "Levels": "Nivåer",
+        "Level": "Nivå",
+        "you_completed_level": "Bra jobbat! Du klarade nivån",
+        "you_completed_all_levels": "Grattis! Du klarade alla nivåer!"
+    },
+    "foodninjafreemode": {
+        "round_success": "Du vann denna omgång! Går vidare till nästa...",
+        "is_a_not_a": "{0} är {1}, inte {2}",
+        "Category": "Kategori"
+    },
+    "foodquiz": {
+        "Food Quiz configuration": "Inställningar för Food Quiz",
+        "Number of Questions": "Antal frågor",
+        "Go!": "Kör!",
+        "Questions": "Frågor",
+        "Score": "Poäng",
+        "Helps Used": "Använda hjälpalternativ",
+        "Correct": "Rätt",
+        "Wrong": "Fel",
+        "Play again": "Spela igen!",
+        "Return": "Tillbaka...",
+        "congrats_title": "Grattis, du slutförde spelet!",
+        "congrats_text": "Varje steg du tar är en möjlighet att lära och växa, och idag tog du ännu ett positivt steg mot att förstå hälsosam mat, vanor och näringsämnen. Kom ihåg att framsteg inte handlar om perfektion – det handlar om att försöka, utforska och samla kunskap som driver din resa mot en hälsosammare livsstil. Fortsätt vara nyfiken och målmedveten, för varje ansträngning för dig närmare en starkare och friskare version av dig själv!",
+        "Confirm Answer": "Bekräfta svar",
+        "Help (noun)": "Hjälp",
+        "hide_available_helps": "Jag fixar det här. Dölj tillgängliga hjälpmedel!",
+        "need_help_question": "Behöver du hjälp?",
+        "no_available_helps": "Det verkar inte finnas någon hjälp tillgänglig just nu, men oroa dig inte — du fixar det! Jag tror på dig!",
+        "Skip": "Hoppa över",
+        "Hint": "Ledtråd",
+        "50-50": "50-50"
+    },
+    "letsmove": {
+        "browser_video_tag_warning": "Din webbläsare stöder inte videotaggen.",
+        "Return to start page": "Återgå till startsidan",
+        "random exercise": "slumpmässig övning"
+    },
+    "foodtreasure": {
+        "Treasure Revealed": "Skatten avslöjad",
+        "InvalidQRScan": "Hmm… den här koden hör inte hit. Den riktiga är fortfarande gömd!",
+        "Learn More": "Lär dig mer"
+    }
+}

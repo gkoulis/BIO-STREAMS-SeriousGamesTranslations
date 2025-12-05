@@ -1,0 +1,57 @@
+{
+    "common": {
+        "Under Construction": "V izgradnji",
+        "Something went wrong": "Nekaj je šlo narobe..."
+    },
+    "actions": {
+        "Start": "Začni",
+        "Go": "Pojdi",
+        "Return": "Vrni se",
+        "Next": "Naslednji"
+    },
+    "theme_level": {
+        "Themes": "Teme",
+        "Theme": "Tema",
+        "Levels": "Ravni",
+        "Level": "Raven",
+        "you_completed_level": "Odlično! Uspešno si zaključil_a raven",
+        "you_completed_all_levels": "Čestitke! Zaključil_a si vse ravni!"
+    },
+    "foodninjafreemode": {
+        "round_success": "Zmagal_a si v tem krogu! Nadaljujemo v naslednji krog...",
+        "is_a_not_a": "{0} je {1}, ne {2}",
+        "Category": "Kategorija"
+    },
+    "foodquiz": {
+        "Food Quiz configuration": "Nastavitve prehranskega kviza",
+        "Number of Questions": "Število vprašanj",
+        "Go!": "Začni!",
+        "Questions": "Vprašanja",
+        "Score": "Rezultat",
+        "Helps Used": "Uporabljene pomoči",
+        "Correct": "Pravilno",
+        "Wrong": "Napačno",
+        "Play again": "Igraj znova!",
+        "Return": "Nazaj...",
+        "congrats_title": "Čestitke za dokončanje igre!",
+        "congrats_text": "Vsak korak, ki ga narediš, je priložnost za učenje in rast, in danes si naredil še en pozitiven korak k razumevanju zdrave prehrane, navad in hranil. Ne pozabi – napredek ni v popolnosti, temveč v prizadevanju, raziskovanju in znanju, ki podpira tvojo pot k bolj zdravemu življenjskemu slogu. Nadaljuj z radovednostjo in odločnostjo, saj te vsak trud približa močnejšemu in bolj zdravemu tebi!",
+        "Confirm Answer": "Potrdi odgovor",
+        "Help (noun)": "Pomoč",
+        "hide_available_helps": "To zmorem. Skrij razpoložljive pomoči!",
+        "need_help_question": "Potrebuješ pomoč?",
+        "no_available_helps": "Zdi se, da trenutno ni na voljo nobene pomoči, ampak brez skrbi — to ti bo uspelo! Verjamem vate!",
+        "Skip": "Preskoči",
+        "Hint": "Namig",
+        "50-50": "50-50"
+    },
+    "letsmove": {
+        "browser_video_tag_warning": "Tvoj brskalnik ne podpira oznake za video.",
+        "Return to start page": "Vrni se na začetno stran",
+        "random exercise": "naključna vaja"
+    },
+    "foodtreasure": {
+        "Treasure Revealed": "Zaklad razkrit",
+        "InvalidQRScan": "Hmm… ta koda ne sodi sem. Prava je še vedno skrita!",
+        "Learn More": "Izvedi več"
+    }
+}

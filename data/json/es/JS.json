@@ -1,0 +1,57 @@
+{
+  "common": {
+    "Under Construction": "En construcción",
+    "Something went wrong": "Algo salió mal..."
+  },
+  "actions": {
+    "Start": "Comenzar",
+    "Go": "Ir",
+    "Return": "Regresar",
+    "Next": "Siguiente"
+  },
+  "theme_level": {
+    "Themes": "Temas",
+    "Theme": "Tema",
+    "Levels": "Niveles",
+    "Level": "Nivel",
+    "you_completed_level": "¡Bien hecho! Completaste el nivel",
+    "you_completed_all_levels": "¡Felicidades! ¡Completaste todos los niveles!"
+  },
+  "foodninjafreemode": {
+    "round_success": "¡Ganaste esta ronda! Pasando a la siguiente...",
+    "is_a_not_a": "{0} es {1}, no {2}",
+    "Category": "Categoría"
+  },
+  "foodquiz": {
+    "Food Quiz configuration": "Configuración del Quiz de Comida",
+    "Number of Questions": "Número de preguntas",
+    "Go!": "¡Comenzar!",
+    "Questions": "Preguntas",
+    "Score": "Puntuación",
+    "Helps Used": "Ayudas utilizadas",
+    "Correct": "Correcto",
+    "Wrong": "Incorrecto",
+    "Play again": "¡Jugar de nuevo!",
+    "Return": "Volver...",
+    "congrats_title": "¡Felicidades por completar el juego!",
+    "congrats_text": "Cada paso que das es una oportunidad para aprender y crecer, y hoy diste otro paso positivo hacia la comprensión de los alimentos saludables, los hábitos y los nutrientes. Recuerda, el progreso no se trata de la perfección, sino de intentar, explorar y adquirir conocimientos que alimentan tu camino hacia un estilo de vida más saludable. ¡Sigue con curiosidad y determinación, porque cada esfuerzo te acerca más a una versión más fuerte y sana de ti!",
+    "Confirm Answer": "Confirmar respuesta",
+    "Help (noun)": "Ayuda",
+    "hide_available_helps": "¡Yo puedo con esto! Ocultar ayudas disponibles.",
+    "need_help_question": "¿Necesitas ayuda?",
+    "no_available_helps": "Parece que no hay ayudas disponibles en este momento, pero no te preocupes — ¡tú puedes con esto! ¡Creo en ti!",
+    "Skip": "Saltar",
+    "Hint": "Pista",
+    "50-50": "50-50"
+  },
+  "letsmove": {
+    "browser_video_tag_warning": "Tu navegador no soporta la etiqueta de video.",
+    "Return to start page": "Volver a la página de inicio",
+    "random exercise": "ejercicio aleatorio"
+  },
+  "foodtreasure": {
+    "Treasure Revealed": "¡Tesoro Revelado!",
+    "InvalidQRScan": "Hmm… este código no pertenece aquí. ¡El verdadero aún está escondido!",
+    "Learn More": "Aprende Más"
+  }
+}

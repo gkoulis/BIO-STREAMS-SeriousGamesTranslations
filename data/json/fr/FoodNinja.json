@@ -1,0 +1,75 @@
+{
+  "themes": [
+    {
+      "id": 1,
+      "title": "Fruits et légumes",
+      "description": "Recherchez les fruits et légumes! Tranchez-les pour gagner des points et découvrez leur valeur nutritionnelle et leur palette de couleurs, combien vous devriez en consommer quotidiennement et les façons astucieuses de les ajouter à votre alimentation.",
+      "levels": [
+        {
+          "id": 1,
+          "title": "Votre tâche est de trancher les fruits !",
+          "messages": [
+            "Donnez aux fruits une priorité!",
+            "Les fruits font partie des aliments que vous devriez consommer quotidiennement. En général, votre objectif ultime est de consommer 2 à 3 fruits par jour. Choisir un fruit comme collation, à l'école ou l'après-midi, vous aidera à atteindre votre objectif quotidien. Pour cela, donnez la priorité aux fruits : mangez d’abord le fruit, puis n’importe quoi d’autre !"
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Votre tâche est de trancher les légumes !",
+          "messages": [
+            "Allez avec une salade à vos repas!",
+            "Les légumes, comme les fruits, doivent être consommés quotidiennement. Ils peuvent être servis en salade ou même en plat principal. Pour atteindre votre objectif quotidien, accompagnez vos repas principaux de légumes !"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Votre tâche est de trancher les fruits et légumes de couleur rouge !",
+          "messages": [
+            "Découvrez la palette F&A de couleurs!",
+            "Les fruits et légumes sont les groupes alimentaires les plus colorés. Leurs couleurs, cependant, ne sont pas seulement un plaisir pour vos yeux, mais aussi pour votre corps. Derrière une couleur, certaines substances existent, qui profitent spécifiquement à un système de votre corps. En d'autres termes, les différentes couleurs sont bonnes pour différents systèmes du corps. Découvrez-les!"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Produits laitiers (DP)",
+      "description": "Recherchez les produits laitiers! Tranchez-les pour gagner des points et découvrez leurs principaux nutriments, la quantité que vous devriez consommer quotidiennement, la taille de leurs portions et les façons astucieuses de les ajouter à votre alimentation.",
+      "levels": [
+        {
+          "id": 1,
+          "title": "Votre tâche est de trancher les produits laitiers !",
+          "messages": [
+            "Faites des produits laitiers une habitude quotidienne ! Incluez-les tôt dans votre journée et adoptez des habitudes saines qui durent !",
+            "Les produits laitiers comme le lait, le yaourt et le fromage sont des aliments que vous devriez consommer quotidiennement car ils fournissent des nutriments essentiels à votre croissance et à votre développement."
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Votre tâche est de réduire la consommation quotidienne recommandée de produits laitiers !",
+          "messages": [
+            "Optez pour des produits laitiers tous les jours !",
+            "Pour atteindre l'objectif de 3 à 4 portions de produits laitiers par jour, essayez d'inclure un verre de lait au petit-déjeuner, du yaourt comme collation ou du fromage au déjeuner ou au dîner. Prenez-en une habitude : associez vos repas ou vos collations à un produit laitier pour rester fort et en bonne santé !"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Votre tâche consiste à trancher ce qui compte comme une portion d'un produit laitier.",
+          "messages": [
+            "Qu'est-ce qui compte comme une portion de produits laitiers?",
+            "Voici un guide rapide: (1) 1 verre (240 ml) de lait, (2) 1 pot (150 g) de yaourt et (3) 1 tranche (ou 30 g) de fromage"
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Votre tâche consiste à découper le nutriment clé présent dans les produits laitiers ! A noter que : Ca : calcium, Fe : Fer, vE : vitamine E.",
+          "messages": [
+            "Les produits laitiers sont l'une des meilleures sources de calcium, ce qui contribue à la formation d'os et de dents solides.",
+            "Les produits laitiers sont également des sources importantes de protéines de haute qualité, importantes pour votre croissance, vos vitamines et vos minéraux.",
+            "Les produits laitiers faibles en gras vous donnent moins de calories et de graisse, mais sont également de bonnes sources de calcium et de protéines. Choisissez-les aussi!"
+          ]
+        }
+      ]
+    }
+  ]
+}

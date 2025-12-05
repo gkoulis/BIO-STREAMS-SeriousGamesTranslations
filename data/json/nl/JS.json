@@ -1,0 +1,57 @@
+{
+  "common": {
+    "Under Construction": "In aanbouw",
+    "Something went wrong": "Er is iets misgegaan..."
+  },
+  "actions": {
+    "Start": "Start",
+    "Go": "Ga",
+    "Return": "Terug",
+    "Next": "Volgende"
+  },
+  "theme_level": {
+    "Themes": "Thema's",
+    "Theme": "Thema",
+    "Levels": "Niveaus",
+    "Level": "Niveau",
+    "you_completed_level": "Goed gedaan! Je hebt niveau voltooid",
+    "you_completed_all_levels": "Gefeliciteerd! Je hebt alle niveaus voltooid!"
+  },
+  "foodninjafreemode": {
+    "round_success": "Je hebt deze ronde gewonnen! We gaan door naar de volgende ronde...",
+    "is_a_not_a": "{0} is {1}, niet {2}",
+    "Category": "Categorie"
+  },
+  "foodquiz": {
+    "Food Quiz configuration": "Voedselquiz configuratie",
+    "Number of Questions": "Aantal vragen",
+    "Go!": "Ga!",
+    "Questions": "Vragen",
+    "Score": "Score",
+    "Helps Used": "Gebruikte hulpmiddelen",
+    "Correct": "Goed",
+    "Wrong": "Fout",
+    "Play again": "Speel opnieuw!",
+    "Return": "Terug...",
+    "congrats_title": "Gefeliciteerd met het voltooien van het spel!",
+    "congrats_text": "Elke stap die je zet, is een kans om te leren en te groeien, en vandaag heb je weer een positieve stap gezet richting het begrijpen van gezond eten, gewoonten en voedingsstoffen. Onthoud dat vooruitgang niet alleen gaat om perfectie – het gaat om proberen, ontdekken en kennis opdoen die je reis naar een gezondere levensstijl voedt. Blijf nieuwsgierig en vastberaden, want elke inspanning brengt je dichter bij een sterkere, gezondere versie van jezelf!",
+    "Confirm Answer": "Bevestig antwoord",
+    "Help (noun)": "Hulp",
+    "hide_available_helps": "Ik red dit wel. Verberg beschikbare hulpmiddelen!",
+    "need_help_question": "Hulp nodig?",
+    "no_available_helps": "Het lijkt erop dat er nu geen hulp beschikbaar is, maar maak je geen zorgen — je kunt dit! Ik geloof in je!",
+    "Skip": "Overslaan",
+    "Hint": "Hint",
+    "50-50": "50-50"
+  },
+  "letsmove": {
+    "browser_video_tag_warning": "Je browser ondersteunt het videotag niet.",
+    "Return to start page": "Terug naar startpagina",
+    "random exercise": "willekeurige oefening"
+  },
+  "foodtreasure": {
+    "Treasure Revealed": "Schat onthuld",
+    "InvalidQRScan": "Hmm… deze code hoort hier niet. De echte is nog steeds verstopt!",
+    "Learn More": "Meer leren"
+  }
+}

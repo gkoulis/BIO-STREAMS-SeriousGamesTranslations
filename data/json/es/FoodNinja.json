@@ -1,0 +1,75 @@
+{
+  "themes": [
+    {
+      "id": 1,
+      "title": "Frutas y verduras",
+      "description": "¡Busca las frutas y verduras! Córtelos para ganar puntos y conozca su valor nutricional y su paleta de colores, cuántos debe consumir diariamente y formas inteligentes de agregarlos a su dieta.",
+      "levels": [
+        {
+          "id": 1,
+          "title": "¡Tu tarea es cortar las frutas!",
+          "messages": [
+            "¡Dale a Fruit una prioridad!",
+            "Las frutas se encuentran entre los alimentos que debes consumir a diario. En general, tu objetivo final es 2-3 frutas al día. Seleccionar una fruta como merienda, en el colegio o por la tarde, te ayudará a conseguir tu objetivo diario. Para ello, dale prioridad a la fruta: ¡primero come la fruta y luego cualquier otra cosa!"
+          ]
+        },
+        {
+          "id": 2,
+          "title": "¡Tu tarea es cortar las verduras!",
+          "messages": [
+            "¡Ve con una ensalada en tus comidas!",
+            "Las verduras, al igual que las frutas, deben consumirse a diario. Se pueden servir como ensalada o incluso como plato principal. ¡Para cumplir tu objetivo diario, acompaña tus comidas principales con verduras!"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "¡Tu tarea es cortar las frutas y verduras de color rojo!",
+          "messages": [
+            "¡Descubre la paleta de colores F&V!",
+            "Las frutas y verduras son los grupos de alimentos más coloridos. Sin embargo, sus colores no son solo un placer para sus ojos, sino también para su cuerpo. Detrás de un color, existen ciertas sustancias que benefician específicamente a un sistema de su cuerpo. En otras palabras, los diferentes colores son buenos para diferentes sistemas del cuerpo. ¡Descúbrelos!"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Productos lácteos (DP)",
+      "description": "¡Busca los productos lácteos! Córtelos para ganar puntos y conozca sus nutrientes clave, cuántos debe consumir diariamente, el tamaño de la porción y formas inteligentes de agregarlos a su dieta.",
+      "levels": [
+        {
+          "id": 1,
+          "title": "¡Tu tarea es cortar los productos lácteos!",
+          "messages": [
+            "¡Haz de los productos lácteos un hábito diario! ¡Inclúyalos temprano en su día y desarrolle hábitos saludables que duren!",
+            "Los productos lácteos como la leche, el yogur y el queso son alimentos que debes consumir a diario porque aportan nutrientes clave para tu crecimiento y desarrollo."
+          ]
+        },
+        {
+          "id": 2,
+          "title": "¡Tu tarea es reducir el consumo diario recomendado de productos lácteos!",
+          "messages": [
+            "¡Consuma productos lácteos todos los días!",
+            "Para alcanzar el objetivo de 3-4 porciones de productos lácteos al día, intente incluir un vaso de leche en el desayuno, yogur como merienda o queso en el almuerzo o la cena. Conviértalo en un hábito: combine sus comidas o refrigerios con una opción de productos lácteos para mantenerse fuerte y saludable."
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Tu tarea es cortar lo que cuenta como una porción de un producto lácteo.",
+          "messages": [
+            "¿Qué cuenta como una porción de lácteos?",
+            "Aquí hay una guía rápida: (1) 1 vaso (240 ml) de leche, (2) 1 olla (150 g) de yogurt y (3) 1 porción (o 30 g) de queso"
+          ]
+        },
+        {
+          "id": 4,
+          "title": "¡Tu tarea es dividir el nutriente clave que se encuentra en los productos lácteos! Tenga en cuenta que: Ca: calcio, Fe: hierro, vE: vitamina E.",
+          "messages": [
+            "Los productos lácteos son una de las mejores fuentes de calcio, que ayuda a desarrollar huesos y dientes fuertes.",
+            "Los productos lácteos también son fuentes importantes de proteínas de alta calidad, importantes para su crecimiento, vitaminas y minerales.",
+            "Los productos lácteos bajos en grasa le brindan menos calorías y grasas, pero también son buenas fuentes de calcio y proteínas. ¡Elige ellos también!"
+          ]
+        }
+      ]
+    }
+  ]
+}

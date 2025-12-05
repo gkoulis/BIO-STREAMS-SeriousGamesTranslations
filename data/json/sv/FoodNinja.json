@@ -1,0 +1,75 @@
+{
+  "themes": [
+    {
+      "id": 1,
+      "title": "Frukt och grönsaker",
+      "description": "Sök efter frukt och grönsaker! Skiva dem för att tjäna poäng och lär dig om deras näringsvärde och färgglada palett, hur många du bör konsumera dagligen och smarta sätt att lägga till dem i din kost.",
+      "levels": [
+        {
+          "id": 1,
+          "title": "Din uppgift är att skiva frukterna!",
+          "messages": [
+            "Ge frukt en prioritet!",
+            "Frukt är bland de livsmedel du bör konsumera dagligen. I allmänhet är 2-3 frukter per dag ditt slutmål. Att välja en frukt som mellanmål, i skolan eller på eftermiddagen, hjälper dig att nå ditt dagliga mål. För att göra det, prioritera frukt: ät först frukten, sedan allt annat!"
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Din uppgift är att skiva grönsakerna!",
+          "messages": [
+            "Gå med en sallad vid dina måltider!",
+            "Grönsaker, liksom frukt, bör konsumeras dagligen. De kan serveras som sallad eller till och med som huvudrätt. För att nå ditt vardagliga mål, komplettera dina huvudmåltider med grönsaker!"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Din uppgift är att skiva frukter och grönsaker med röd färg!",
+          "messages": [
+            "Upptäck F & V -paletten av färger!",
+            "Frukt och grönsaker är de mest färgstarka livsmedelsgrupperna. Deras färger är emellertid inte bara ett nöje för dina ögon, utan också för din kropp. Bakom en färg finns vissa ämnen, vilket specifikt gynnar ett system i din kropp. Med andra ord är de olika färgerna bra för olika system i kroppen. Upptäcka dem!"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Mejeriprodukter (DP)",
+      "description": "Sök efter mejeriprodukterna! Skiva dem för att tjäna poäng och lär dig om deras viktigaste näringsämnen, hur många du bör konsumera dagligen, deras portionsstorlek och smarta sätt att lägga till dem i din kost.",
+      "levels": [
+        {
+          "id": 1,
+          "title": "Din uppgift är att skiva mejeriprodukterna!",
+          "messages": [
+            "Gör mejeriprodukter till en daglig vana! Inkludera dem tidigt på dagen och bygg upp hälsosamma vanor som håller!",
+            "Mejeriprodukter som mjölk, yoghurt och ost är mat du bör äta dagligen eftersom de ger viktiga näringsämnen för din tillväxt och utveckling."
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Din uppgift är att skära upp den rekommenderade dagliga konsumtionen av mejeriprodukter!",
+          "messages": [
+            "Gå med mejeriprodukter varje dag!",
+            "För att nå målet på 3-4 portioner mejeriprodukter per dag, prova att inkludera ett glas mjölk till frukost, yoghurt som mellanmål eller ost till din lunch eller middag. Gör det till en vana - koppla ihop dina måltider eller mellanmål med en mejeriprodukt för att förbli stark och frisk!"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Din uppgift är att skiva det som räknas som en del av en mejeriprodukt.",
+          "messages": [
+            "Vad räknas som en servering av mejeri?",
+            "Här är en snabbguide: (1) 1 glas (240 ml) mjölk, (2) 1 kruka (150 g) yoghurt och (3) 1 skiva (eller 30 g) ost"
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Din uppgift är att skära upp det viktigaste näringsämnet som finns i mejeriprodukter! Observera att: Ca: kalcium, Fe: Järn, ve: vitamin E.",
+          "messages": [
+            "Mejeriprodukter är en av de bästa källorna till kalcium, som hjälper till att bygga starka ben och tänder.",
+            "Mejeriprodukter är också viktiga källor till högkvalitativt protein, viktiga för din tillväxt, vitaminer och mineraler.",
+            "Mejeriprodukter med låg fetthalt ger dig mindre kalorier och fett men är också bra källor till kalcium och proteiner. Välj dem också!"
+          ]
+        }
+      ]
+    }
+  ]
+}

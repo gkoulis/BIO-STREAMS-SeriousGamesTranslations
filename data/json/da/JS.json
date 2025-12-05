@@ -1,0 +1,57 @@
+{
+  "common": {
+    "Under Construction": "Under opførelse",
+    "Something went wrong": "Noget gik galt..."
+  },
+  "actions": {
+    "Start": "Start",
+    "Go": "Gå",
+    "Return": "Tilbage",
+    "Next": "Næste"
+  },
+  "theme_level": {
+    "Themes": "Temaer",
+    "Theme": "Tema",
+    "Levels": "Niveauer",
+    "Level": "Niveau",
+    "you_completed_level": "Godt klaret! Du gennemførte niveau",
+    "you_completed_all_levels": "Tillykke! Du gennemførte alle niveauer!"
+  },
+  "foodninjafreemode": {
+    "round_success": "Du vandt denne runde! Går videre til næste runde...",
+    "is_a_not_a": "{0} er {1}, ikke {2}",
+    "Category": "Kategori"
+  },
+  "foodquiz": {
+    "Food Quiz configuration": "Madquiz konfiguration",
+    "Number of Questions": "Antal spørgsmål",
+    "Go!": "Gå!",
+    "Questions": "Spørgsmål",
+    "Score": "Point",
+    "Helps Used": "Brugte hjælpemidler",
+    "Correct": "Korrekt",
+    "Wrong": "Forkert",
+    "Play again": "Spil igen!",
+    "Return": "Tilbage...",
+    "congrats_title": "Tillykke med at gennemføre spillet!",
+    "congrats_text": "Hvert skridt du tager, er en chance for at lære og vokse, og i dag tog du endnu et positivt skridt mod at forstå sunde fødevarer, vaner og næringsstoffer. Husk, at fremskridt ikke kun handler om perfektion – det handler om at prøve, udforske og tilegne sig viden, der nærer din rejse mod en sundere livsstil. Bliv ved med at være nysgerrig og beslutsom, for hvert forsøg bringer dig tættere på en stærkere og sundere version af dig selv!",
+    "Confirm Answer": "Bekræft svar",
+    "Help (noun)": "Hjælp",
+    "hide_available_helps": "Jeg klarer det. Skjul tilgængelige hjælpemidler!",
+    "need_help_question": "Brug for hjælp?",
+    "no_available_helps": "Det ser ud til, at der ikke er nogen hjælp tilgængelig lige nu, men bare rolig — du klarer det! Jeg tror på dig!",
+    "Skip": "Spring over",
+    "Hint": "Fif",
+    "50-50": "50-50"
+  },
+  "letsmove": {
+    "browser_video_tag_warning": "Din browser understøtter ikke videotagget.",
+    "Return to start page": "Tilbage til startsiden",
+    "random exercise": "tilfældigt øvelsesprogram"
+  },
+  "foodtreasure": {
+    "Treasure Revealed": "Skat afsløret",
+    "InvalidQRScan": "Hmm… denne kode hører ikke til her. Den rigtige gemmer sig stadig!",
+    "Learn More": "Lær mere"
+  }
+}

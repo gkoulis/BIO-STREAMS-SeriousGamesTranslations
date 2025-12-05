@@ -1,0 +1,58 @@
+{
+  "common": {
+    "Under Construction": "En construction",
+    "Something went wrong": "Une erreur s'est produite..."
+  },
+  "actions": {
+    "Start": "Commencer",
+    "Go": "Aller",
+    "Return": "Retourner",
+    "Next": "Suivant"
+  },
+  "theme_level": {
+    "Themes": "Thèmes",
+    "Theme": "Thème",
+    "Levels": "Niveaux",
+    "Level": "Niveau",
+    "you_completed_level": "Bien joué ! Vous avez terminé le niveau",
+    "you_completed_all_levels": "Félicitations ! Vous avez terminé tous les niveaux !"
+  },
+
+  "foodninjafreemode": {
+    "round_success": "Tu as gagné ce tour ! Passage au tour suivant...",
+    "is_a_not_a": "{0} est un(e) {1}, pas un(e) {2}",
+    "Category": "Catégorie"
+  },
+  "foodquiz": {
+    "Food Quiz configuration": "Configuration du Quiz Alimentaire",
+    "Number of Questions": "Nombre de questions",
+    "Go!": "Go !",
+    "Questions": "Questions",
+    "Score": "Score",
+    "Helps Used": "Aides utilisées",
+    "Correct": "Bonne réponse",
+    "Wrong": "Mauvaise réponse",
+    "Play again": "Rejouer !",
+    "Return": "Retour...",
+    "congrats_title": "Félicitations pour avoir terminé le jeu !",
+    "congrats_text": "Chaque pas que tu fais est une opportunité d'apprendre et de grandir. Aujourd'hui, tu as fait un pas positif vers une meilleure compréhension des aliments sains, des habitudes et des nutriments. Souviens-toi, le progrès ne réside pas dans la perfection — mais dans l’effort, l’exploration et la connaissance qui alimentent ton chemin vers un mode de vie plus sain. Continue avec curiosité et détermination, car chaque effort te rapproche d’un toi plus fort et en meilleure santé !",
+    "Confirm Answer": "Confirmer la réponse",
+    "Help (noun)": "Aide",
+    "hide_available_helps": "Je gère. Cacher les aides disponibles !",
+    "need_help_question": "Besoin d’un coup de main ?",
+    "no_available_helps": "On dirait qu’aucune aide n’est disponible pour le moment, mais ne t’inquiète pas — tu peux le faire ! J’ai confiance en toi !",
+    "Skip": "Passer",
+    "Hint": "Indice",
+    "50-50": "50-50"
+  },
+  "letsmove": {
+    "browser_video_tag_warning": "Votre navigateur ne prend pas en charge la balise vidéo.",
+    "Return to start page": "Retour à la page d’accueil",
+    "random exercise": "exercice aléatoire"
+  },
+  "foodtreasure": {
+    "Treasure Revealed": "Trésor Révélé",
+    "InvalidQRScan": "Hmm… ce code ne fait pas partie de votre quête. Le vrai est encore caché !",
+    "Learn More": "En Savoir Plus"
+  }
+}

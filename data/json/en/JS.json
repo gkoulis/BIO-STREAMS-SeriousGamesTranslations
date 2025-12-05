@@ -1,0 +1,57 @@
+{
+  "common": {
+    "Under Construction": "Under Construction",
+    "Something went wrong": "Something went wrong..."
+  },
+  "actions": {
+    "Start": "Start",
+    "Go": "Go",
+    "Return": "Return",
+    "Next": "Next"
+  },
+  "theme_level": {
+    "Themes": "Themes",
+    "Theme": "Theme",
+    "Levels": "Levels",
+    "Level": "Level",
+    "you_completed_level": "Well Done! You completed level",
+    "you_completed_all_levels": "Congratulations! You completed all levels!"
+  },
+  "foodninjafreemode": {
+    "round_success": "You won this round! Proceeding to the next round...",
+    "is_a_not_a": "{0} is {1}, not {2}",
+    "Category": "Category"
+  },
+  "foodquiz": {
+    "Food Quiz configuration": "Food Quiz configuration",
+    "Number of Questions": "Number of Questions",
+    "Go!": "Go!",
+    "Questions": "Questions",
+    "Score": "Score",
+    "Helps Used": "Helps Used",
+    "Correct": "Correct",
+    "Wrong": "Wrong",
+    "Play again": "Play again!",
+    "Return": "Return...",
+    "congrats_title": "Congratulations on completing the game!",
+    "congrats_text": "Every step you take is a chance to learn and grow, and today you took another positive stride toward understanding healthy foods, habits, and nutrients. Remember, progress isn't just about perfection—it's about trying, exploring, and gaining knowledge that fuels your journey toward a healthier lifestyle. Keep up the curiosity and determination, because every effort brings you closer to a stronger, healthier you!",
+    "Confirm Answer": "Confirm Answer",
+    "Help (noun)": "Help",
+    "hide_available_helps": "I 've got this. Hide available helps!",
+    "need_help_question": "Need some help?",
+    "no_available_helps": "Looks like there’s no help available right now, but don’t worry—you’ve got this! I believe in you!",
+    "Skip": "Skip",
+    "Hint": "Hint",
+    "50-50": "50-50"
+  },
+  "letsmove": {
+    "browser_video_tag_warning": "Your browser does not support the video tag.",
+    "Return to start page": "Return to start page",
+    "random exercise": "random exercise"
+  },
+  "foodtreasure": {
+    "Treasure Revealed": "Treasure Revealed",
+    "InvalidQRScan": "Hmm… this code doesn’t belong here. The real one is still hiding!",
+    "Learn More": "Learn More"
+  }
+}

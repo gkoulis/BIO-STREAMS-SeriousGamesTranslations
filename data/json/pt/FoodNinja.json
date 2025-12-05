@@ -1,0 +1,75 @@
+{
+  "themes": [
+    {
+      "id": 1,
+      "title": "Frutas e legumes",
+      "description": "Procure as frutas e legumes! Fatie-os para ganhar pontos e aprender sobre seu valor nutricional e paleta colorida, quantos você deve consumir diariamente e maneiras inteligentes de adicioná-los à sua dieta.",
+      "levels": [
+        {
+          "id": 1,
+          "title": "Sua tarefa é fatiar as frutas!",
+          "messages": [
+            "Dê uma prioridade à fruta!",
+            "As frutas estão entre os alimentos que você deve consumir diariamente. Em geral, 2-3 frutas por dia é o seu objetivo final. Escolher uma fruta no lanche, na escola ou à tarde, vai te ajudar a atingir seu objetivo diário. Para isso, dê prioridade à fruta: primeiro coma a fruta e depois qualquer outra coisa!"
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Sua tarefa é fatiar os legumes!",
+          "messages": [
+            "Vá com uma salada nas suas refeições!",
+            "Os vegetais, assim como as frutas, devem ser consumidos diariamente. Podem ser servidos como salada ou até como prato principal. Para cumprir o seu objetivo diário, acompanhe as suas refeições principais com vegetais!"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Sua tarefa é fatiar as frutas e legumes com a cor vermelha!",
+          "messages": [
+            "Descubra a paleta de cores F&V!",
+            "Frutas e vegetais são os grupos de alimentos mais coloridos. Suas cores, no entanto, não são apenas um prazer para seus olhos, mas também para o seu corpo. Por trás de uma cor, existem certas substâncias, que beneficiam especificamente um sistema do seu corpo. Em outras palavras, as cores diferentes são boas para diferentes sistemas do corpo. Descubra -os!"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Produtos lácteos (DP)",
+      "description": "Procure os laticínios! Fatie-os para ganhar pontos e aprender sobre seus principais nutrientes, quantos você deve consumir diariamente, o tamanho da porção e maneiras inteligentes de adicioná-los à sua dieta.",
+      "levels": [
+        {
+          "id": 1,
+          "title": "Sua tarefa é fatiar os laticínios!",
+          "messages": [
+            "Faça dos laticínios um hábito diário! Inclua-os no início do dia e crie hábitos saudáveis ​​que durem!",
+            "Produtos lácteos como leite, iogurte e queijo são alimentos que você deve consumir diariamente porque fornecem nutrientes essenciais para o seu crescimento e desenvolvimento."
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Sua tarefa é fatiar o consumo diário recomendado de laticínios!",
+          "messages": [
+            "Vá com laticínios todos os dias!",
+            "Para atingir a meta de 3-4 porções de laticínios por dia, experimente incluir um copo de leite no café da manhã, iogurte no lanche ou queijo no almoço ou jantar. Crie o hábito - combine suas refeições ou lanches com uma opção de laticínios para se manter forte e saudável!"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Sua tarefa é fatiar o que conta como uma porção de um laticínio.",
+          "messages": [
+            "O que conta como uma porção de laticínios?",
+            "Aqui está um guia rápido: (1) 1 vidro (240 ml) de leite, (2) 1 pote (150 g) de iogurte e (3) 1 fatia (ou 30 g) de queijo"
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Sua tarefa é fatiar o principal nutriente encontrado nos laticínios! Observe que: Ca: cálcio, Fe: Ferro, vE: vitamina E.",
+          "messages": [
+            "Os laticínios são uma das melhores fontes de cálcio, que ajuda a construir ossos e dentes fortes.",
+            "Os produtos lácteos também são fontes importantes de proteína de alta qualidade, importantes para o seu crescimento, vitaminas e minerais.",
+            "Os laticínios com pouca gordura oferecem menos calorias e gordura, mas também são boas fontes de cálcio e proteínas. Escolha -os também!"
+          ]
+        }
+      ]
+    }
+  ]
+}

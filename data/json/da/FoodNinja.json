@@ -1,0 +1,75 @@
+{
+  "themes": [
+    {
+      "id": 1,
+      "title": "Frugt og grøntsager",
+      "description": "Søg efter frugter og grøntsager! Skær dem i skiver for at optjene point og lær om deres ernæringsmæssige værdi og farverige palet, hvor mange du bør indtage dagligt og smarte måder at tilføje dem i din kost.",
+      "levels": [
+        {
+          "id": 1,
+          "title": "Din opgave er at skære frugterne!",
+          "messages": [
+            "Giv frugt en prioritet!",
+            "Frugt er blandt de fødevarer, du bør indtage på daglig basis. Generelt er 2-3 frugter om dagen dit ultimative mål. At vælge en frugt som snack, i skolen eller om eftermiddagen, vil hjælpe dig med at nå dit daglige mål. For at gøre det, giv frugt en prioritet: Spis først frugten, så alt andet!"
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Din opgave er at skære grøntsagerne i skiver!",
+          "messages": [
+            "Gå med en salat til dine måltider!",
+            "Grøntsager, ligesom frugt, bør indtages på daglig basis. De kan serveres som salat eller endda som hovedret. For at nå dit daglige mål skal du ledsage dine hovedmåltider med grøntsager!"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Din opgave er at skære frugter og grøntsager i skiver med rød farve!",
+          "messages": [
+            "Oplev F & V -paletten af farver!",
+            "Frugt og grøntsager er de mest farverige fødevaregrupper. Deres farver er imidlertid ikke kun en fornøjelse for dine øjne, men også for din krop. Bag en farve findes der visse stoffer, der specifikt er til gavn for et system af din krop. Med andre ord er de forskellige farver gode til forskellige systemer i kroppen. Oplev dem!"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Mejeriprodukter (DP)",
+      "description": "Søg efter mejeriprodukterne! Skær dem i skiver for at optjene point og lær om deres vigtigste næringsstoffer, hvor mange du bør indtage dagligt, deres portionsstørrelse og smarte måder at tilføje dem til din kost.",
+      "levels": [
+        {
+          "id": 1,
+          "title": "Din opgave er at skære mejeriprodukterne i skiver!",
+          "messages": [
+            "Gør mejeriprodukter til en daglig vane! Inkluder dem tidligt i din dag, og opbyg sunde vaner, der holder!",
+            "Mejeriprodukter som mælk, yoghurt og ost er fødevarer, du bør indtage dagligt, fordi de giver vigtige næringsstoffer til din vækst og udvikling."
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Din opgave er at skære det anbefalede daglige forbrug af mejeriprodukter i skiver!",
+          "messages": [
+            "Gå med mejeriprodukter hver dag!",
+            "For at nå målet om 3-4 portioner mejeriprodukter om dagen, prøv at inkludere et glas mælk til morgenmaden, yoghurt som snack eller ost til din frokost eller aftensmad. Gør det til en vane - sæt dine måltider eller snacks sammen med et mejeriprodukt for at forblive stærk og sund!"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Din opgave er at skære, hvad der tæller som én portion af et mejeriprodukt.",
+          "messages": [
+            "Hvad tæller som en portion mejeri?",
+            "Her er en hurtig guide: (1) 1 glas (240 ml) mælk, (2) 1 gryde (150 g) yoghurt og (3) 1 skive (eller 30 g) ost"
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Din opgave er at skære det vigtigste næringsstof, der findes i mejeriprodukter! Bemærk at: Ca: calcium, Fe: Jern, ve: E-vitamin.",
+          "messages": [
+            "Mejeriprodukter er en af ​​de bedste kilder til calcium, som hjælper med at opbygge stærke knogler og tænder.",
+            "Mejeriprodukter er også vigtige kilder til protein af høj kvalitet, der er vigtige for din vækst, vitaminer og mineraler.",
+            "Mejeriprodukter med lavt fedtindhold giver dig mindre kalorier og fedt, men er også gode kilder til calcium og proteiner. Vælg dem også!"
+          ]
+        }
+      ]
+    }
+  ]
+}

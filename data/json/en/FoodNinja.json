@@ -1,0 +1,75 @@
+{
+  "themes": [
+    {
+      "id": 1,
+      "title": "Fruits and Vegetables",
+      "description": "Search for the fruits and vegetables! Slice them to earn points and learn about their nutritional value and colourful palette, how many you should consume daily, and clever ways to add them in your diet.",
+      "levels": [
+        {
+          "id": 1,
+          "title": "Your task is to slice the fruits!",
+          "messages": [
+            "Give fruit a priority!",
+            "Fruits are among the foods you should consume on a daily basis. In general, 2-3 fruits per day is your ultimate goal. Selecting a fruit as a snack, at school or in the afternoon, will help you achieve your daily goal. To do so, give fruit a priority: first eat the fruit, then anything else!"
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Your task is to slice the vegetables !",
+          "messages": [
+            "Go with a salad at your meals!",
+            "Vegetables, like fruits, should be consumed on a daily basis. They can be served as a salad or even as a main dish. To meet your everyday goal, accompany your main meals with vegetables!"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Your task is to slice the fruits anf vegetables with red colour!",
+          "messages": [
+            "Discover the F&V palette of colours!",
+            "Fruits and vegetables are the most colorful food groups. Their colours, however, are not only a pleasure for your eyes, but for your body, as well. Behind a colour, certain substances exist, which specifically benefit a system of your body. In other words, the different colours are good for different systems of the body. Discover them!"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Dairy Products (DP)",
+      "description": "Search for the dairy products! Slice them to earn points and learn about their key nutrients, how many you should consume daily, their serving size, and clever ways to add them in your diet..",
+      "levels": [
+        {
+          "id": 1,
+          "title": "Your task is to slice the dairy products!",
+          "messages": [
+            "Make dairy products a daily habit! Include them early in your day and build healthy habits that last!",
+            "Dairy products like milk, yogurt, and cheese are foods you shoulod consume daily because they provide key nutrients for your growth and development."
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Your task is to slice the recommended daily consumption of dairy products!",
+          "messages": [
+            "Go with dairy products every day!",
+            "To meet the goal of 3-4 servings of dairy products per day, try including a glass of milk with breakfast, yogurt as a snack, or cheese with your lunch or dinner. Make it a habit — pair your meals or snacks with a dairy product boption to stay strong and healthy!"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Your task is to slice what counts as one portion of a dairy product. ",
+          "messages": [
+            "What counts as one serving of dairy?",
+            "Here’s a quick guide: (1) 1 glass (240 ml) of milk, (2) 1 pot (150 g) of yogurt, and (3) 1 slice (or 30 g) of cheese"
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Your task is to slice the key nutrient found in dairy products! Note that: Ca: calcium, Fe: Iron, vE: vitamin E.",
+          "messages": [
+            "Dairy products are one of the best sources of calcium , which helps build strong bones and teeth.",
+            "Dairy products are also important sources of high-quality protein, important for your growth, vitamins and minerals.",
+            "Low-fat dairy products give you less calories and fat but are also good sources of calcium and proteins. Choose them too!"
+          ]
+        }
+      ]
+    }
+  ]
+}

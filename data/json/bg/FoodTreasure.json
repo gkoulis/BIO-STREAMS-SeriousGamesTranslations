@@ -1,0 +1,56 @@
+{
+  "themes": [
+    {
+      "id": 1,
+      "title": "Discover Fruits",
+      "description": "Explore your surroundings to discover where fruity secrets are hidden! Follow the clues and scan the QR codes in the correct order to complete your fruity quest.",
+      "levels": [
+        {
+          "id": 1,
+          "title": "Teacher’s Favorite Snack",
+          "title_post": "Find the Apple",
+          "description": "",
+          "hints": [
+            "I’m red or green and often seen in teachers’ hands. Look where books stand in neat rows — I might be there too."
+          ],
+          "messages": [
+            "Nice find! The apple has been crunched."
+          ],
+          "secret_code": "red-green-apple",
+          "image": "apple.png",
+          "image_url": "/sr-foodtreasure/images/apple.png"
+        },
+        {
+          "id": 2,
+          "title": "Citrus Mystery",
+          "title_post": "Find the Orange",
+          "description": "",
+          "hints": [
+            "Peel back the layers of your mind. I'm juicy and round — hiding where people quench their thirst."
+          ],
+          "messages": [
+            "Zesty move! You’ve uncovered the orange. "
+          ],
+          "secret_code": "juicy-orange",
+          "image": "orange.png",
+          "image_url": "/sr-foodtreasure/images/orange.png"
+        },
+        {
+          "id": 3,
+          "title": "Summer Surprise",
+          "title_post": "Find the Watermelon",
+          "description": "",
+          "hints": [
+            "Big, green, and full of pink surprises. Find me where the sun shines and kids run around — maybe near the picnic bench."
+          ],
+          "messages": [
+            "You did it! The watermelon is yours. Fruity mission complete!"
+          ],
+          "secret_code": "big-green-pink-watermelon",
+          "image": "watermelon.png",
+          "image_url": "/sr-foodtreasure/images/watermelon.png"
+        }
+      ]
+    }
+  ]
+}

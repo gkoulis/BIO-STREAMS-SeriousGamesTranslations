@@ -206,6 +206,30 @@ def _join_convert_json_to_excel__wrapper(
                 target_input_file_path=target_input_file_path,
                 output_file_path=output_file_path,
             )
+    
+    # Food Treasure
+    # --------------------------------------------------
+    
+    if food_treasure_1 is True:
+        key_list: list[str] = ["title", "description", "title_post", "hints", "messages"]
+        for target_language in target_language_list:
+            source_input_file_path: str = (
+                f"/home/dgk/projects/BIO-STREAMS/bio-streams-marketplace/public/sr-foodtreasure/{source_language}/content-theme-list.json"
+            )
+            target_input_file_path: str = (
+                f"/home/dgk/projects/BIO-STREAMS/bio-streams-marketplace/public/sr-foodtreasure/{target_language}/content-theme-list.json"
+            )
+            output_file_path: str = (
+                f"/home/dgk/projects/BIO-STREAMS/bio-streams-marketplace/Translations/{source_language}-{target_language}-FoodTreasure-ContentThemeList.xlsx"
+            )
+            join_convert_json_to_excel(
+                source_language=source_language,
+                target_language=target_language,
+                key_list=key_list,
+                source_input_file_path=source_input_file_path,
+                target_input_file_path=target_input_file_path,
+                output_file_path=output_file_path,
+            )
 
     # JS Code
     # --------------------------------------------------
@@ -234,12 +258,12 @@ def _join_convert_json_to_excel__wrapper(
 
 
 def main() -> None:
-    _translate__wrapper(
-        food_ninja_1=False,
-        food_ninja_2=False,  # It is usually False.
-        food_quiz_1=False,
-        food_treasure_1=True,
-    )
+    # _translate__wrapper(
+    #     food_ninja_1=False,
+    #     food_ninja_2=False,  # It is usually False.
+    #     food_quiz_1=False,
+    #     food_treasure_1=True,
+    # )
     # _join_convert_json_to_excel__wrapper(
     #     food_ninja_1=False,
     #     food_ninja_2=False,  # It is usually False.
@@ -247,6 +271,7 @@ def main() -> None:
     #     food_treasure_1=True,
     #     js_code_1=False
     # )
+    pass
 
 
 if __name__ == "__main__":

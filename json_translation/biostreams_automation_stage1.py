@@ -3,7 +3,7 @@ from ._join_convert import join_convert_json_to_excel
 
 
 def _translate__wrapper(
-    food_ninja_1: bool, food_ninja_2: bool, food_quiz_1: bool
+    food_ninja_1: bool, food_ninja_2: bool, food_quiz_1: bool, food_treasure_1: bool
 ) -> None:
     source_language: str = "en"
     target_language_list: list[str] = [
@@ -92,10 +92,32 @@ def _translate__wrapper(
                 output_file_path=output_file_path,
                 indent=indent,
             )
+    
+    # Food Treasure (1/1)
+    # --------------------------------------------------
+    
+    if food_treasure_1 is True:
+
+        key_list: list[str] = ["title", "description", "title_post", "hints", "messages"]
+        for target_language in target_language_list:
+            input_file_path: str = (
+                f"/home/dgk/projects/BIO-STREAMS/bio-streams-marketplace/public/sr-foodtreasure/{source_language}/content-theme-list.json"
+            )
+            output_file_path: str = (
+                f"/home/dgk/projects/BIO-STREAMS/bio-streams-marketplace/public/sr-foodtreasure/{target_language}/content-theme-list.json"
+            )
+            translate_json_file(
+                source_language=source_language,
+                target_language=target_language,
+                key_list=key_list,
+                input_file_path=input_file_path,
+                output_file_path=output_file_path,
+                indent=indent,
+            )
 
 
 def _join_convert_json_to_excel__wrapper(
-    food_ninja_1: bool, food_ninja_2: bool, food_quiz_1: bool, js_code_1: bool
+    food_ninja_1: bool, food_ninja_2: bool, food_quiz_1: bool, food_treasure_1: bool, js_code_1: bool
 ) -> None:
     source_language: str = "en"
     target_language_list: list[str] = [
@@ -212,13 +234,19 @@ def _join_convert_json_to_excel__wrapper(
 
 
 def main() -> None:
-    # _translate__wrapper(food_ninja_1=True, food_ninja_2=False, food_quiz_1=True)
-    _join_convert_json_to_excel__wrapper(
-        food_ninja_1=True,
-        food_ninja_2=False,
-        food_quiz_1=True,
-        js_code_1=True
+    _translate__wrapper(
+        food_ninja_1=False,
+        food_ninja_2=False,  # It is usually False.
+        food_quiz_1=False,
+        food_treasure_1=True,
     )
+    # _join_convert_json_to_excel__wrapper(
+    #     food_ninja_1=False,
+    #     food_ninja_2=False,  # It is usually False.
+    #     food_quiz_1=False,
+    #     food_treasure_1=True,
+    #     js_code_1=False
+    # )
 
 
 if __name__ == "__main__":

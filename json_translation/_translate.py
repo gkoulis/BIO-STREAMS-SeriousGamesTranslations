@@ -33,7 +33,9 @@ _C: _Context = _Context()
 
 
 def _translate_string(string: str, source_language: str, target_language: str) -> str:
-    if isinstance(string, str) and string.strip() != "":
+    if isinstance(string, str):
+        if string.strip() == "":
+            return ""
         try:
             return GoogleTranslator(
                 source=source_language, target=target_language

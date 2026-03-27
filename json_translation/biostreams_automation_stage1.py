@@ -3,7 +3,7 @@ from ._join_convert import join_convert_json_to_excel
 
 
 def _translate__wrapper(
-    food_ninja_1: bool, food_ninja_2: bool, food_quiz_1: bool, food_treasure_1: bool
+    food_ninja_1: bool, food_ninja_2: bool, food_quiz_1: bool, food_treasure_1: bool, lets_move_1: bool
 ) -> None:
     source_language: str = "en"
     target_language_list: list[str] = [
@@ -105,6 +105,28 @@ def _translate__wrapper(
             )
             output_file_path: str = (
                 f"/home/dgk/projects/BIO-STREAMS/bio-streams-marketplace/public/sr-foodtreasure/{target_language}/content-theme-list.json"
+            )
+            translate_json_file(
+                source_language=source_language,
+                target_language=target_language,
+                key_list=key_list,
+                input_file_path=input_file_path,
+                output_file_path=output_file_path,
+                indent=indent,
+            )
+        
+    # Let's Move (1/1)
+    # --------------------------------------------------
+    
+    if lets_move_1 is True:
+        
+        key_list: list[str] = ["name", "description"]
+        for target_language in target_language_list:
+            input_file_path: str = (
+                f"/home/dgk/projects/BIO-STREAMS/bio-streams-marketplace/public/sr-letsmove/{source_language}/content.json"
+            )
+            output_file_path: str = (
+                f"/home/dgk/projects/BIO-STREAMS/bio-streams-marketplace/public/sr-letsmove/{target_language}/content.json"
             )
             translate_json_file(
                 source_language=source_language,
@@ -258,15 +280,18 @@ def _join_convert_json_to_excel__wrapper(
 
 
 def main() -> None:
-    # _translate__wrapper(
-    #     food_ninja_1=False,
-    #     food_ninja_2=False,  # It is usually False.
-    #     food_quiz_1=False,
-    #     food_treasure_1=True,
-    # )
+    # NOTICE: files are overridden!
+    
+    _translate__wrapper(
+        food_ninja_1=False,
+        food_ninja_2=False,  # It is usually False (do not set True).
+        food_quiz_1=False,
+        food_treasure_1=False,
+        lets_move_1=True
+    )
     # _join_convert_json_to_excel__wrapper(
     #     food_ninja_1=False,
-    #     food_ninja_2=False,  # It is usually False.
+    #     food_ninja_2=False,  # It is usually False (do not set True).
     #     food_quiz_1=False,
     #     food_treasure_1=True,
     #     js_code_1=False
